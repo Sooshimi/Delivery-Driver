@@ -11,8 +11,9 @@ CONTROLS:
 WASD - Move car forward, left, right, backwards
 
 AIM:
-Delivery all purple packages to the customer (orange square)
+Deliver all 3 purple packages to the customer (orange square)
 
 GAME MECHANICS:
-- Bumping into objects will slow down your car
+- Car will turn purple when a package is picked up, and will turn back to normal colour once delivered to the customer
+- Bumping into other objects will slow down your car
 - Picking up the booster (yellow circle) will speed up your car
